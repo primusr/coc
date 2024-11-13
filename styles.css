@@ -25,7 +25,7 @@ a {
 
 /* Tagline Section */
 .tagline {
-    background-color: rgba(30, 30, 30, 0.9); /* Darkened background with slight opacity */
+    /* background-color: rgba(30, 30, 30, 0.9); Darkened background with slight opacity */
     padding: 20px;
     text-align: center;
     color: #e0e0e0;
@@ -35,7 +35,7 @@ a {
 /* Hero Section */
 .hero {
     background: url('hero-image.jpg') center/cover no-repeat;
-    height: 100vh;
+    height: 200vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
